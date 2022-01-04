@@ -1,0 +1,29 @@
+1. git init
+    initialize an existing directory as a Git repository
+
+2. git clean
+    Removes untracked files from the working directory. This is the logical counterpart to git reset, which (typically) only operates on tracked files.
+
+3. git config
+    A convenient way to set configuration options for your Git installation. You’ll typically only need to use this immediately after installing Git on a new development machine.
+
+4. git fetch
+    Fetching downloads a branch from another repository, along with all of its associated commits and files. But, it doesn't try to integrate anything into your local repository. This gives you a chance to inspect changes before merging them with your project.
+
+5. git log
+    Lets you explore the previous revisions of a project. It provides several formatting options for displaying committed snapshots.
+
+6. git rebase
+    Rebasing lets you move branches around, which helps you avoid unnecessary merge commits. The resulting linear history is often much easier to understand and explore.
+
+7. git reset
+    Undoes changes to files in the working directory. Resetting lets you clean up or completely remove changes that have not been pushed to a public repository.
+
+8. git stash
+    Save modified and staged changes
+
+9. git diff
+    diff of what is changed but not staged
+
+10. git revert
+    Undoes a committed snapshot. When you discover a faulty commit, reverting is a safe and easy way to completely remove it from the code base.

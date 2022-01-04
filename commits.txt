@@ -1,0 +1,30 @@
+commit 7def2a798b486c05cdf7c2dc835e3d078694a570
+Author: Varun Singh <varun14gb@gmail.com>
+Date:   Tue Jan 4 19:38:49 2022 +0530
+
+    Added Merge Conflicts.txt
+
+commit ce55d115058a8f8191ca63e389c0f8df2d7f04d8
+Merge: a8bf9a1 17cc468
+Author: Varun Singh <varun14gb@gmail.com>
+Date:   Tue Jan 4 19:28:30 2022 +0530
+
+    After resolving merge conflict
+
+commit 17cc4689b6b0c9c881c539720e361b0ca03ca2b2
+Author: Varun Singh <varun14gb@gmail.com>
+Date:   Tue Jan 4 19:25:40 2022 +0530
+
+    Added git commands
+
+commit a8bf9a169620f7e442261fb3bbe3ff67b032ec6a
+Author: Varun Singh <38114116+varun14gb@users.noreply.github.com>
+Date:   Tue Jan 4 19:25:02 2022 +0530
+
+    Create Git Commands.txt
+
+commit 84d38b4625e3c648eeaf1bbdc9fd542fa954fdb0
+Author: SHANOOR AHMED <76896805+shanoorahmed@users.noreply.github.com>
+Date:   Mon Jan 3 00:41:26 2022 +0530
+
+    Initial commit

@@ -1,0 +1,7 @@
+For Creating Merge Conflict -> 
+    I created Git Commands.txt file in main branch as well as in newBranch.
+    Text content of both the files are different at some lines (all in my case) so this will result in merge conflict when we try to merge newBranch with main.
+
+To Resolve Merge Conflict ->
+    I added the lines from both the branches the way I wanted.
+                
